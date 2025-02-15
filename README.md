@@ -1,5 +1,3 @@
-Sure! Here's the updated `README.md` file with the email `anayshirolkar@gmail.com`:
-
 ```markdown
 # Discussion Forum System
 
@@ -92,6 +90,3 @@ Once the setup is complete, you can proceed to run the project. In Eclipse, comp
 For testing, begin by setting up an admin account through the on-screen instructions. Verify that the admin user is successfully created in the database. Then, test the user registration and login functionality by creating a new user account with the invitation code and logging in with both correct and incorrect credentials. You should also test the Discussion Page by adding questions and ensuring they appear in the UI. Finally, test the ability to add answers to questions and edit or delete both questions and answers to verify the full functionality.
 ```
 
-This `README.md` now includes the email `anayshirolkar@gmail.com` in the SSH key generation instructions.
-
-Let me know if you need any more changes!
