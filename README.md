@@ -16,9 +16,6 @@ Open your terminal (or Git Bash) and run the following command to generate an SS
 ssh-keygen -t ed25519 -C "anayshirolkar@gmail.com"
 ```
 
-- Replace `anayshirolkar@gmail.com` with your email associated with your GitHub account.
-- Press **Enter** to accept the default file location and set a passphrase if desired.
-
 For older systems that do not support Ed25519, use the RSA option:
 
 ```bash
