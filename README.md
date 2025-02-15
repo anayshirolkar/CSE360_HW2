@@ -1,4 +1,32 @@
 # CSE360_HW2
+# Discussion Forum System
+
+## Accessing the SSH Key
+
+Before you can clone the repository, you'll need to set up an SSH key for authentication. Follow these steps to generate and add your SSH key to GitHub:
+
+### 1. **Generate an SSH Key (if you don’t have one)**
+
+If you haven't already generated an SSH key, you can do so by following these steps:
+
+#### For Linux/macOS/Windows (Git Bash):
+Open your terminal (or Git Bash) and run the following command to generate an SSH key:
+
+```bash
+ssh-keygen -t ed25519 -C "anayshirolkar@gmail.com"
+
+ssh-keygen -t rsa -b 4096 -C "anayshirolkar@gmail.com"
+
+SSH Key
+cat ~/.ssh/id_ed25519.pub
+
+If you are using RSA
+cat ~/.ssh/id_rsa.pub
+
+Clone the Repo using this link
+git clone git@github.com:anayshirolkar/CSE360_HW2.git
+
+
 This project is a Discussion Forum system designed to allow users to post questions, provide answers, and search through discussions effectively. The project has undergone several significant improvements, including the implementation of a UML-based class structure. This new design introduces proper object-oriented relationships between questions and answers, enhancing the system’s organization. Additionally, input validation and error handling have been incorporated to prevent invalid data entries, ensuring a smooth user experience. The search functionality has also been upgraded to make it easier for users to find relevant discussions.
 
 
