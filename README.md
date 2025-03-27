@@ -127,12 +127,3 @@ This will generate HTML documentation files in the `doc` directory, which you ca
 
 ---
 
-## Additional Information
-
-- The codebase is designed to be modular and extensible, making it easier to add new features in the future.
-- All critical functionalities are covered by unit tests to ensure robustness and reliability.
-- The user interface is designed to be simple yet effective, focusing on user interaction and usability.
-
-If you encounter any issues or have suggestions for improvement, feel free to contribute by creating pull requests or raising issues in the repository.
-
-Happy coding! 😊
